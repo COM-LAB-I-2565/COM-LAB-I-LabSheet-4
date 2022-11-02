@@ -9,10 +9,10 @@
 
 ถ้าแบ่งตามประเภทในการใช้งาน เราจะพบว่า git client มี 2 พวกใหญ่ๆ คือ
 
-1. git client แบบ stand alone
-1.1 git client ชนิด terminal เช่น git bash หรือ terminal ของ OS ต่าง ๆ
-1.2  git client ชนิด GUI เช่น github desktop และอื่น ๆ
-2. git client ที่ผนวกเข้ากับ IDE  เช่น Visual studio, visual studio Code, Eclipse เป็นต้น
+1. git client แบบ stand alone  
+1.1 git client ชนิด terminal เช่น git bash หรือ terminal ของ OS ต่าง ๆ  
+1.2  git client ชนิด GUI เช่น github desktop และอื่น ๆ  
+2. git client ที่ผนวกเข้ากับ IDE  เช่น Visual studio, visual studio Code, Eclipse เป็นต้น  
 
 ### 1. Git Clients แบบ stand alone
 
